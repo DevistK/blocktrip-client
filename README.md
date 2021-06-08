@@ -11,11 +11,11 @@ Front-end
 
 ㄴ style 
 
-— styled-components
+  — styled-components
 
 ㄴ bundle
 
-— webpack
+  — webpack
 
 back-end
 
