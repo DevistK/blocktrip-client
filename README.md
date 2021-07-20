@@ -13,11 +13,11 @@
 
 Front
 
-— react.js + redux
+— react.js + react-redux
 
 ㄴ style 
 
-  — styled-components
+  — scss
 
 ㄴ bundle
 
