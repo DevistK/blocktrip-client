@@ -16,7 +16,7 @@ function App() {
 
   return data ? (
     <div>
-      <h1>Data 테스트</h1>
+      <h1>Data Test</h1>
       <ul>
         <li>프로젝트 명 : {data.projectName}</li>
         <li>프로젝트 버전 : {data.version}</li>
