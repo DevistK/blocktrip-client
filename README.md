@@ -70,8 +70,6 @@
 <span><img src="https://img.shields.io/badge/FrontEnd-React-%2361DAFB?style=for-the-badge&logo=react" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-axios-%2361DAFB?style=for-the-badge" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-redux-%23764ABC?style=for-the-badge&logo=redux" /></span>
-<span><img src="https://img.shields.io/badge/FrontEnd-HTML5-%23E34F26?style=for-the-badge&logo=html5" /></span>
-<span><img src="https://img.shields.io/badge/FrontEnd-CSS3-1572B6?style=for-the-badge&logo=css3" /></span>
 
 ## BackEnd
 
