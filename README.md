@@ -11,10 +11,17 @@
 </ul>
  
  <p>해괴망측 가상세계 프로젝트 시작</p>
-
+ 
 <span><img src="https://img.shields.io/badge/Project-black?style=for-the-badge" /></span>
 <span><img src="https://img.shields.io/badge/SOLDAY-orange?style=for-the-badge" /></span>
 
+ <div>
+ <h3>앱 형태</h3>
+ <p>Prototype Version : Only Web & Responsive </p>
+ <p>Final Version :: Hybrid App</p>
+ </div>
+ 
+ 
 - 모두가 여행정보를 공유하고 후기를 남기는 피드식 블로깅  
   - 후기를 남긴 지역에는 pin point 로 몇개의 피드가 올라와있는지 count로 확인가능
   - 좋아요에 따라서 BEST 피드 선정
@@ -34,7 +41,9 @@
   - 지갑 간 코인 이동을 위한 지갑 시스템 개발 ( 가상으로 이동한다는 가정 )
   - SOLD COIN은 어떻게 만들것 인지 => ERC20 이더리움 기반 결정
   
-> 여행장소 숙박 예약 시스템 (예정)
+- 여행장소 숙박 예약 시스템 
+  - 여행자가 예약시 여행자 , 숙박업자 모두에게 알림 전달하고 여행 이틀전에 한번더 알림 전달
+  - 
 
 - 개발 전 사항
   
