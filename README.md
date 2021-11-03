@@ -38,12 +38,11 @@
 
 - 개발 전 사항
   
-  1. 기획
-  2. 구조 설계
-  3. UI/UX 디자인
-  4. Components, Page Mapping
-  5. Server , Router 분리
-  6. Blockchain , Solidity 학습 및 이더리움 기반 ERC20 이해
+  1. 기능 기획 
+  2. UI/UX 디자인
+  3. Components 구조 설계
+  4. Server , Router 분리
+  5. Blockchain , Solidity 학습 및 이더리움 기반 ERC20 이해
 
 ---
 
