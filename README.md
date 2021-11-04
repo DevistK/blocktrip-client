@@ -1,6 +1,6 @@
-# 🚐SolDAY
+<h1 align="center"> 🚐SolDAY</h1>
 
-<h2>
+<h2 align="center">
   코인 모으지만 말고 써보자<br>
   여행정보 공유 , 후기등록 하고 스트레스 받지않고 놀기 위한 취지로 만드는 개인 프로젝트
 </h2>  
