@@ -29,7 +29,7 @@
   - 피드는 글 , 이미지 , 영상으로도 올리기 가능
   - 피드 밑에 예약하기 버튼을 두어 예약 시스템으로 이동
 
- >COIN NAME : ClOUD FUNDING COIN | CFC
+ >COIN NAME : <a href="https://github.com/tjehdgur1500/CloudFundingcoin">ClOUD FUNDING COIN | CFC</a>
  <p>지급 시스템 및 지갑 이동</p>
 
 - 사용처 및 시스템
@@ -40,7 +40,7 @@
   - 해당 코인으로 예약했을 시 예약 횟수에 따라 할인 쿠폰 등을 발급
   - 숙박업체나 유저는 시장에서 환전 가능
 
-  - 지갑 간 코인 이동을 위한 지갑 시스템 개발 ( 가상으로 이동한다는 가정 )
+  - 코인 이동을 위한 이더리움 메인넷 기반 지갑 활성화
   - ClOUD FUNDING COIN은 어떻게 만들것 인지 => ERC-20 이더리움 기반 결정
   
 - 여행장소 숙박 예약 시스템 
