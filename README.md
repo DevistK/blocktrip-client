@@ -30,7 +30,7 @@
   - 피드 밑에 예약하기 버튼을 두어 예약 시스템으로 이동
 
  >COIN NAME : <a href="https://github.com/tjehdgur1500/CloudFundingcoin">ClOUD FUNDING COIN | CFC</a>
- <p>지급 시스템 및 지갑 이동</p>
+ <p>코인 지급 시스템 및 지갑 이동</p>
 
 - 사용처 및 시스템
   - 피드를 남김 => 코인 지급
