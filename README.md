@@ -70,7 +70,6 @@
 ---
 
 ## FrontEnd
-<span><img src="https://img.shields.io/badge/frontend-javascript-%23F7DF1E?style=for-the-badge&logo=javascript" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-React-%2361DAFB?style=for-the-badge&logo=react" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-axios-%2361DAFB?style=for-the-badge" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-redux-%23764ABC?style=for-the-badge&logo=redux" /></span>
