@@ -1,4 +1,4 @@
-<h1 align="center"> 🚐SolDAY</h1>
+<h1 align="center"> 🚐blockTrip</h1>
 
 <h2 align="center">
   코인 모으지만 말고 써보자<br>
@@ -38,7 +38,7 @@
   - 숙박업체나 유저는 시장에서 환전 가능
 
   - 코인 이동을 위한 이더리움 메인넷 기반 지갑 활성화
-  - ClOUD FUNDING COIN은 어떻게 만들것 인지 => ERC-20 이더리움 기반 결정
+  - CLOUD FUNDING COIN은 어떻게 만들것 인지 => ERC-20 이더리움 기반 결정
   
 - 여행장소 숙박 예약 시스템 
   - 여행자가 예약시 여행자 , 숙박업자 모두에게 알림 전달하고 여행 이틀전에 한번더 알림 전달
