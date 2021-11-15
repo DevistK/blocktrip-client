@@ -12,7 +12,7 @@
  
 
 <span><img src="https://img.shields.io/badge/Project-black?style=for-the-badge" /></span>
-<span><img src="https://img.shields.io/badge/SOLDAY-orange?style=for-the-badge" /></span>
+<span><img src="https://img.shields.io/badge/blockTrip-#07cdf0?style=for-the-badge" /></span>
 
  <div>
  <h3>앱 형태</h3>
