@@ -74,7 +74,7 @@
 <span><img src="https://img.shields.io/badge/FrontEnd-React-%2361DAFB?style=for-the-badge&logo=react" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-axios-%2361DAFB?style=for-the-badge" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-redux-%23764ABC?style=for-the-badge&logo=redux" /></span>
-<span><img src="https://img.shields.io/badge/FrontEnd-styled-components-%23DB7093?style=for-the-badge&logo=styled-components" /></span>
+<span><img src="https://img.shields.io/badge/FrontEnd-styled-components-%23DB7093?style=for-the-badge&logo=styledcomponents" /></span>
 
 ## BackEnd
 
