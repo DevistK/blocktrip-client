@@ -66,7 +66,7 @@
   3. 테이블 설계
   4. Components 구조 설계
   5. Server , Router 분리
-  6. Blockchain , Solidity 학습 및 이더리움 기반 ERC20 이해
+  6. Blockchain , Solidity 학습 
 
 ---
 
