@@ -73,7 +73,7 @@
 ## FrontEnd
 <span><img src="https://img.shields.io/badge/FrontEnd-TypeScript-%233178C6?style=for-the-badge&logo=typescript" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-React-%2361DAFB?style=for-the-badge&logo=react" /></span>
-<span><img src="https://img.shields.io/badge/FrontEnd-axios-%2361DAFB?style=for-the-badge" /></span>
+<span><img src="https://img.shields.io/badge/FrontEnd-Storybook-%23FF4785?style=for-the-badge&logo=storybook" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-redux-%23764ABC?style=for-the-badge&logo=redux" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-styledcomponents-%23DB7093?style=for-the-badge" /></span>
 
