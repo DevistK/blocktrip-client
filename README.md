@@ -93,4 +93,5 @@
 
 ## BlcokChain
 
-<img src="https://img.shields.io/badge/BlockChain-Solidity-363636?style=for-the-badge&logo=Solidity"/><br>
+<span><img src="https://img.shields.io/badge/BlockChain-Solidity-363636?style=for-the-badge&logo=Solidity"/></span>
+<span><img src="https://img.shields.io/badge/BlockChain-Klaytn-363636?style=for-the-badge&logo=Klaytn"/></span>
