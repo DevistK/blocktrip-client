@@ -88,7 +88,7 @@
 
 ## SERVER
 
-<img src="https://img.shields.io/badge/SERVER-AWS-%23232F3E?style=for-the-badge&logo=aws" /><br>
+<img src="https://img.shields.io/badge/SERVER-AWS-%23FF9900?style=for-the-badge&logo=aws" /><br>
 
 ## BlcokChain
 
