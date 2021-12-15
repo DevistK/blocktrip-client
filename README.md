@@ -81,14 +81,15 @@
 
 <span><img src="https://img.shields.io/badge/Backend-Node.js-%23339933?style=for-the-badge&logo=node.js" /></span>
 <span><img src="https://img.shields.io/badge/Backend-express-%23000000?style=for-the-badge&logo=express" /></span>
+<span><img src="https://img.shields.io/badge/Backend-docker-%232496ED?style=for-the-badge&logo=docker" /></span>
 
 ## DB
 
 <img src="https://img.shields.io/badge/DB-mysql-%234479A1?style=for-the-badge&logo=mysql" /><br>
 
 ## SERVER
-
-<img src="https://img.shields.io/badge/SERVER-AWS-%23FF9900?style=for-the-badge&logo=aws" /><br>
+<span><img src="https://img.shields.io/badge/AWS-EC2-%23FF9900?style=for-the-badge&logo=AWS" /></span>
+<span><img src="https://img.shields.io/badge/AWS-S3-%23FF9900?style=for-the-badge&logo=AWS" /></span>
 
 ## BlcokChain
 
