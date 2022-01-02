@@ -84,8 +84,8 @@
 
 ## DB
 
-<img src="https://img.shields.io/badge/DB-mysql-%234479A1?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/DB-redis-%23DC382D?style=for-the-badge&logo=redis" />
+<span><img src="https://img.shields.io/badge/DB-mysql-%234479A1?style=for-the-badge&logo=mysql" /></span>
+<span><img src="https://img.shields.io/badge/DB-redis-%23DC382D?style=for-the-badge&logo=redis" /></span>
 
 ## SERVER
 <span><img src="https://img.shields.io/badge/AWS-EC2-%23FF9900?style=for-the-badge&logo=AWS" /></span>
