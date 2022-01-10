@@ -1,0 +1,23 @@
+{
+  "name": "blocktrip",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> 🚐blockTrip</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjehdgur1500/blockTrip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjehdgur1500/blockTrip/issues"
+  },
+  "homepage": "https://github.com/tjehdgur1500/blockTrip#readme",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
