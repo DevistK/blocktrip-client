@@ -1,0 +1,8 @@
+# vscode 생성 파일 제외
+.vscode
+
+# node_modules 제외
+node_modules
+
+# 번들링 된 dist 폴더 제외
+dist
