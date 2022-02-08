@@ -75,23 +75,3 @@
 <span><img src="https://img.shields.io/badge/FrontEnd-React-%2361DAFB?style=for-the-badge&logo=react" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-recoil-%230078D4?style=for-the-badge&logo=recoil" /></span>
 <span><img src="https://img.shields.io/badge/FrontEnd-styledcomponents-%23DB7093?style=for-the-badge" /></span>
-
-## BackEnd
-
-<span><img src="https://img.shields.io/badge/Backend-Node.js-%23339933?style=for-the-badge&logo=node.js" /></span>
-<span><img src="https://img.shields.io/badge/Backend-express-%23000000?style=for-the-badge&logo=express" /></span>
-<span><img src="https://img.shields.io/badge/Backend-docker-%232496ED?style=for-the-badge&logo=docker" /></span>
-
-## DB
-
-<span><img src="https://img.shields.io/badge/DB-mysql-%234479A1?style=for-the-badge&logo=mysql" /></span>
-<span><img src="https://img.shields.io/badge/DB-redis-%23DC382D?style=for-the-badge&logo=redis" /></span>
-
-## SERVER
-<span><img src="https://img.shields.io/badge/AWS-EC2-%23FF9900?style=for-the-badge&logo=AWS" /></span>
-<span><img src="https://img.shields.io/badge/AWS-S3-%23FF9900?style=for-the-badge&logo=AWS" /></span>
-
-## BlcokChain
-
-<span><img src="https://img.shields.io/badge/BlockChain-Solidity-363636?style=for-the-badge&logo=Solidity"/></span>
-<span><img src="https://img.shields.io/badge/BlockChain-Klaytn-363636?style=for-the-badge&logo=Klaytn"/></span>
