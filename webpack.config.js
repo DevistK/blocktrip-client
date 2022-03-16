@@ -23,7 +23,7 @@ module.exports = {
                 use: ['babel-loader', 'ts-loader'],
             },
             {
-                test: /\.(png|jpg|gif|jp2|webp)$/,
+                test: /\.(png|jpg|gif|jp2|webp|svg)$/,
                 use: ['file-loader'],
             },
         ],
