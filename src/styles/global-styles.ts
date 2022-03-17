@@ -29,7 +29,7 @@ body{
   button{
     cursor:pointer;
   }  
-  #custom-login-btn{    
+  .sns-login-btn{    
     img{
       max-width:300px;
     }

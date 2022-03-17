@@ -17,7 +17,7 @@ const LocalStartButton = () => {
     return (
         <StyledLocalStartLoginWrap>
             <Link to="/loginDetail">
-                <button id="custom-login-btn">이메일로 시작하기 / 회원가입</button>
+                <button id="local-btn">이메일로 시작하기 / 회원가입</button>
             </Link>
         </StyledLocalStartLoginWrap>
     );

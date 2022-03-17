@@ -4,7 +4,8 @@ export const StyledIntroDiv = styled.div`
     background-color: #07cdf0;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
 `;
 
 export const StyleIntroH1 = styled.h1`
@@ -15,4 +16,5 @@ export const StyleMainButtonWrap = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    margin-top:183px;
 `;

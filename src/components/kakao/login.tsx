@@ -10,7 +10,7 @@ const StyledKakaoWrap = styled.div`
 const KakaoButton = () => {
     return (
         <StyledKakaoWrap>
-            <a id="custom-login-btn" onClick={() => {}}>
+            <a className="sns-login-btn" onClick={() => {}}>
                 <img src={kakao_btn} alt="카카오 로그인 버튼" />
             </a>
         </StyledKakaoWrap>

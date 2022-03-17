@@ -10,7 +10,7 @@ const StyledGoggleWrap = styled.div`
 const GoogleButton = () => {
     return (
         <StyledGoggleWrap>
-            <a id="custom-login-btn" onClick={() => {}}>
+            <a className="sns-login-btn" onClick={() => {}}>
                 <img src={google_btn} alt="구글 로그인 버튼" />
             </a>
         </StyledGoggleWrap>
