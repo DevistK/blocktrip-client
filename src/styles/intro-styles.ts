@@ -1,7 +1,11 @@
 import styled from "styled-components";
 
-export const StyledIntroDiv = styled.div`
-    background-color: #07cdf0;
+interface useColor {
+    useIntro: any;
+}
+
+export const StyledIntroDiv = styled.div<useColor>`
+    background-color: ${(props) => props.useIntro == 'use' ? "#07cdf0" : "#fff"};
     display: flex;
     flex-direction: column;
     justify-content: center;

@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const LoginDetail = () => (
     <>
-        <StyledIntroDiv className="container">
+        <StyledIntroDiv className="container" useIntro="use">
             <StyleIntroH1>
                 <img src={default_logo} />
             </StyleIntroH1>
@@ -16,7 +16,7 @@ const LoginDetail = () => (
             <LoginRequestButton>로그인</LoginRequestButton>
             <LoginGuideDiv>
                 <p className="intro-guide-msg">처음 이신가요?</p>
-                <Link to="/loginDetail">
+                <Link to="/register">
                     <button id="register-btn">이메일로 가입하기</button>
                 </Link>
                 <Link to="/">

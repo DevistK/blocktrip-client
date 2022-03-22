@@ -9,7 +9,7 @@ import LocalStartButton from './components/local/login';
 
 const App = () => (
     <>
-        <StyledIntroDiv className="container">
+        <StyledIntroDiv className="container" useIntro="use">
             <StyleIntroH1>
                 <img src={default_logo} />
             </StyleIntroH1>
