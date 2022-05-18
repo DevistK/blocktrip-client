@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 interface useColor {
-    useIntro: any;
+    useIntro: string;
 }
 
 export const StyledIntroDiv = styled.div<useColor>`

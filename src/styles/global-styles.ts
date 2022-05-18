@@ -34,10 +34,9 @@ body{
       max-width:300px;
     }
   }  
-  .container{    
-    margin: 0;
+  .container{
     padding: 0;
-    max-width: 480px;
+    width:100%;
     height: 100vh;
     margin: 0 auto;
   }
