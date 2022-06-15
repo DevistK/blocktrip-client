@@ -49,7 +49,7 @@ const Form = () => {
             onChange={handleChange}
           />
           <input
-            type="text"
+            type="password"
             placeholder="비밀번호"
             name={"password"}
             onChange={handleChange}
