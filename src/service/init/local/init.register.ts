@@ -1,4 +1,4 @@
-export const TypeRegister = {
+export const InitRegister = {
   email: "",
   nickname: "",
   password: "",

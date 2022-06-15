@@ -4,10 +4,10 @@ import register_pointer from "../../assets/pointer.svg";
 import { Link } from "react-router-dom";
 import handleRegister from "../../service/local/register/handleRegister";
 import { useState } from "react";
-import { TypeRegister } from "../../service/@type/local/type.register";
+import { InitRegister } from "../../service/init/local/init.register";
 
 const Form = () => {
-  const [inputValue, setInputValue] = useState(TypeRegister);
+  const [inputValue, setInputValue] = useState(InitRegister);
 
   const handleChange = (event: any) => {
     const { name, value } = event.target;
